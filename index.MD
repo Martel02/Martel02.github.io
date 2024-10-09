@@ -1,6 +1,9 @@
-# Heading level 1
-## Heading level 2
-### Heading level 3 ä
+# Iso otsikko
+## Vähän pienempi otsikko
+### Pieni otsikko
+
+> [!NOTE]
+> Not meant for children.
 
 I really like using Markdownä.
 
@@ -11,6 +14,25 @@ And this is the second line.
 
 I just love **bold text**.
 
-I just love __bold text__.
+- [x] Watch anime
+- [ ] Do schoolwork
+- [ ] Be turri :tada:
+
+This site was built using [Brainrot](https://youtu.be/Vok27mth780?si=q4x6CmCXzR7uwAmx).
+
+![This is very helpful for half blind people](https://tenor.com/fi/view/anime-rikka-finger-spin-gif-13642329)
 
 Love **is** bold
+
+> Text that is a quote
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+<a name="unique-anchor-name">XD</a>
