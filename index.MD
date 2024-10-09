@@ -5,6 +5,9 @@
 > [!NOTE]
 > Not meant for children.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 I really like using Markdownä.
 
 I think I'll use it to format all of my documents from now on. 
