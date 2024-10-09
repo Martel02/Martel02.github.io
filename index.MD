@@ -20,7 +20,7 @@ I just love **bold text**.
 
 This site was built using [Brainrot](https://youtu.be/Vok27mth780?si=q4x6CmCXzR7uwAmx).
 
-![This is very helpful for half blind people](https://tenor.com/fi/view/anime-rikka-finger-spin-gif-13642329)
+![This is very helpful for half blind people](https://media.tenor.com/eeur7VuCbmkAAAAi/anime-rikka.gif)
 
 Love **is** bold
 
