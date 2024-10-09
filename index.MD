@@ -1,12 +1,8 @@
 # Heading level 1
 ## Heading level 2
-### Heading level 3
-Heading level 1
-===============
-Heading level 2
----------------
+### Heading level 3 ä
 
-I really like using Markdown.
+I really like using Markdownä.
 
 I think I'll use it to format all of my documents from now on. 
 
@@ -17,4 +13,4 @@ I just love **bold text**.
 
 I just love __bold text__.
 
-Love**is**bold
+Love **is** bold
